@@ -1,0 +1,322 @@
+[
+  {
+    "objectID": "WorkforceDashboard.html",
+    "href": "WorkforceDashboard.html",
+    "title": "Workforce Analytics Dashboard",
+    "section": "",
+    "text": "This project analyses workforce trends including:\n\nHeadcount growth\nAttrition and retention\nTenure and knowledge risk\nPay and workforce investment",
+    "crumbs": [
+      "PowerBi",
+      "Workforce Analytics Dashboard"
+    ]
+  },
+  {
+    "objectID": "WorkforceDashboard.html#project-overview",
+    "href": "WorkforceDashboard.html#project-overview",
+    "title": "Workforce Analytics Dashboard",
+    "section": "",
+    "text": "This project analyses workforce trends including:\n\nHeadcount growth\nAttrition and retention\nTenure and knowledge risk\nPay and workforce investment",
+    "crumbs": [
+      "PowerBi",
+      "Workforce Analytics Dashboard"
+    ]
+  },
+  {
+    "objectID": "WorkforceDashboard.html#dashboard-preview",
+    "href": "WorkforceDashboard.html#dashboard-preview",
+    "title": "Workforce Analytics Dashboard",
+    "section": "🖥️ Dashboard Preview",
+    "text": "🖥️ Dashboard Preview\n\n\n\n\n\n\n\nPreviewing data between 2010-25\n\nPreviewing data between 2023-24",
+    "crumbs": [
+      "PowerBi",
+      "Workforce Analytics Dashboard"
+    ]
+  },
+  {
+    "objectID": "WorkforceDashboard.html#key-insights",
+    "href": "WorkforceDashboard.html#key-insights",
+    "title": "Workforce Analytics Dashboard",
+    "section": "🔍 Key Insights",
+    "text": "🔍 Key Insights\n\nAttrition rate remains elevated at ~23%, indicating retention risk\n\nMid-level and senior roles present the highest continuity risk\n\nWorkforce growth has stabilised despite ongoing hiring",
+    "crumbs": [
+      "PowerBi",
+      "Workforce Analytics Dashboard"
+    ]
+  },
+  {
+    "objectID": "WorkforceDashboard.html#tools-used",
+    "href": "WorkforceDashboard.html#tools-used",
+    "title": "Workforce Analytics Dashboard",
+    "section": "🛠️ Tools Used",
+    "text": "🛠️ Tools Used\n\nPower BI\n\nDAX\n\nData modelling",
+    "crumbs": [
+      "PowerBi",
+      "Workforce Analytics Dashboard"
+    ]
+  },
+  {
+    "objectID": "WorkforceDashboard.html#view-project",
+    "href": "WorkforceDashboard.html#view-project",
+    "title": "Workforce Analytics Dashboard",
+    "section": "🔗 View Project",
+    "text": "🔗 View Project\nView on GitHub",
+    "crumbs": [
+      "PowerBi",
+      "Workforce Analytics Dashboard"
+    ]
+  },
+  {
+    "objectID": "TidyTuesdays.html",
+    "href": "TidyTuesdays.html",
+    "title": "TidyTuesday",
+    "section": "",
+    "text": "TidyTuesday is a weekly challenge organised by the Data Science Learning Community (DSLC). DSLC post a new real-world dataset each week for the data science community to explore, wrangle, tidy, visualise and share it with the wider community.\n\n\n\nUnderstanding the data - identifying structure, variables and limitations\nExploration - identifying patterns, trends and anomalies\nVisualisation - presenting insights clearly\n\n\n\n\nWeek 7: All agriculture production statistics in total New Zealand 1935-2024\nDemonstrate how livestock categories in NZ have changed over time, when compared on a like-for-like basis.\n-&gt; View Analysis &lt;-\n\n\n\nAcross these projects, I’ve developed and applied:\n\nData cleaning and transformation (tidyverse)\nExploratory data analysis\nData visualisation (ggplot2)\nReproducible workflows using Quarto\nCommunication of insights",
+    "crumbs": [
+      "R Analysis",
+      "TidyTuesdays"
+    ]
+  },
+  {
+    "objectID": "TidyTuesdays.html#overview",
+    "href": "TidyTuesdays.html#overview",
+    "title": "TidyTuesday",
+    "section": "",
+    "text": "TidyTuesday is a weekly challenge organised by the Data Science Learning Community (DSLC). DSLC post a new real-world dataset each week for the data science community to explore, wrangle, tidy, visualise and share it with the wider community.\n\n\n\nUnderstanding the data - identifying structure, variables and limitations\nExploration - identifying patterns, trends and anomalies\nVisualisation - presenting insights clearly\n\n\n\n\nWeek 7: All agriculture production statistics in total New Zealand 1935-2024\nDemonstrate how livestock categories in NZ have changed over time, when compared on a like-for-like basis.\n-&gt; View Analysis &lt;-\n\n\n\nAcross these projects, I’ve developed and applied:\n\nData cleaning and transformation (tidyverse)\nExploratory data analysis\nData visualisation (ggplot2)\nReproducible workflows using Quarto\nCommunication of insights",
+    "crumbs": [
+      "R Analysis",
+      "TidyTuesdays"
+    ]
+  },
+  {
+    "objectID": "Shiny-Project.html",
+    "href": "Shiny-Project.html",
+    "title": "Shiny-Project",
+    "section": "",
+    "text": "🚧 Under Development 🚧",
+    "crumbs": [
+      "R Analysis",
+      "Shiny - coming soon",
+      "Shiny-Project"
+    ]
+  },
+  {
+    "objectID": "powerbi.html",
+    "href": "powerbi.html",
+    "title": "Power BI Dashboard",
+    "section": "",
+    "text": "This section showcases my work using mock datasets in Microsoft PowerBI, focusing on building dashboards that support decision-making.\nMy experience includes developing reporting solutions for HR and workforce analytics, with an emphasis on clarity, usability, and business impact.",
+    "crumbs": [
+      "PowerBi"
+    ]
+  },
+  {
+    "objectID": "powerbi.html#overview",
+    "href": "powerbi.html#overview",
+    "title": "Power BI Dashboard",
+    "section": "",
+    "text": "This section showcases my work using mock datasets in Microsoft PowerBI, focusing on building dashboards that support decision-making.\nMy experience includes developing reporting solutions for HR and workforce analytics, with an emphasis on clarity, usability, and business impact.",
+    "crumbs": [
+      "PowerBi"
+    ]
+  },
+  {
+    "objectID": "powerbi.html#my-approach",
+    "href": "powerbi.html#my-approach",
+    "title": "Power BI Dashboard",
+    "section": "My Approach",
+    "text": "My Approach\nWhen building dashboards, my focus is primarily on:\n\nClarity - presenting information without overwhelming the user\nUsability - using intuitive layouts and filters\nRelevance - aligning visuals with business questions\nConsistency - clean, structured design and formatting",
+    "crumbs": [
+      "PowerBi"
+    ]
+  },
+  {
+    "objectID": "powerbi.html#projects",
+    "href": "powerbi.html#projects",
+    "title": "Power BI Dashboard",
+    "section": "Projects",
+    "text": "Projects\nWorkforce Analytics Dashboard designed to support regular reporting and insights on:\n\nheadcount trends\nturnover analysis\ndiversity metrics\n-&gt; View on Quarto\n-&gt; View on GitHub",
+    "crumbs": [
+      "PowerBi"
+    ]
+  },
+  {
+    "objectID": "powerbi.html#tools-and-capabilities",
+    "href": "powerbi.html#tools-and-capabilities",
+    "title": "Power BI Dashboard",
+    "section": "Tools and Capabilities",
+    "text": "Tools and Capabilities\n\nData modelling (DAX)\nDashboard design and UX\nKPI development\nStakeholder-focused reporting",
+    "crumbs": [
+      "PowerBi"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniella Fierro",
+    "section": "",
+    "text": "I have close to five years of experience across HR analytics, change management, and systems implementation, with a background spanning both generalist and specialist HR roles. My experience sits at the intersection of people, systems, and data, which has developed a strong interest in how these areas can work together to support better decision-making and improve organisational outcomes.\nThroughout my previous roles, I worked with workforce and payroll data across multiple systems to improve reporting accuracy, streamline processes, and provide insights to support organisational initiatives and operational decisions. This included developing Power BI dashboards, analysing employee engagement survey data, and preparing workforce reporting that informed initiatives related to workforce planning, DEI, employee experience, and organisational change.\nWorking across both HR and data has shaped a practical and insight-driven approach to problem solving. I’m naturally curious and enjoy exploring new ways of doing things, seeking different perspectives, challenging assumptions, and continuously improving how data is used to inform outcomes. I have developed an appreciation for the importance of accuracy and attention to detail when working with data, particularly where it supports decision-making and communication across teams and stakeholders.\nMotivated by this interest, I completed a Graduate Certificate in Data Science and am currently enrolled in a Master of Science in Health Data Science, pending commencement in September 2026. Alongside formal study, I continue to build my analytical capability through university and personal projects using R and Power BI, with a focus on statistical analysis, data visualisation, and reporting. I also enjoy working through complex or unfamiliar problems and see continuous learning as a core part of my development.\nThis site highlights a selection of my projects, experience, and ongoing learning as I continue building my skills in analytics, reporting, and data-driven problem solving.\n\n\n\n\n\n\n\n✉️Email\n🔗LinkedIn\n💻GitHub",
+    "crumbs": [
+      "Profile"
+    ]
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Daniella Fierro",
+    "section": "",
+    "text": "I have close to five years of experience across HR analytics, change management, and systems implementation, with a background spanning both generalist and specialist HR roles. My experience sits at the intersection of people, systems, and data, which has developed a strong interest in how these areas can work together to support better decision-making and improve organisational outcomes.\nThroughout my previous roles, I worked with workforce and payroll data across multiple systems to improve reporting accuracy, streamline processes, and provide insights to support organisational initiatives and operational decisions. This included developing Power BI dashboards, analysing employee engagement survey data, and preparing workforce reporting that informed initiatives related to workforce planning, DEI, employee experience, and organisational change.\nWorking across both HR and data has shaped a practical and insight-driven approach to problem solving. I’m naturally curious and enjoy exploring new ways of doing things, seeking different perspectives, challenging assumptions, and continuously improving how data is used to inform outcomes. I have developed an appreciation for the importance of accuracy and attention to detail when working with data, particularly where it supports decision-making and communication across teams and stakeholders.\nMotivated by this interest, I completed a Graduate Certificate in Data Science and am currently enrolled in a Master of Science in Health Data Science, pending commencement in September 2026. Alongside formal study, I continue to build my analytical capability through university and personal projects using R and Power BI, with a focus on statistical analysis, data visualisation, and reporting. I also enjoy working through complex or unfamiliar problems and see continuous learning as a core part of my development.\nThis site highlights a selection of my projects, experience, and ongoing learning as I continue building my skills in analytics, reporting, and data-driven problem solving.",
+    "crumbs": [
+      "Profile"
+    ]
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Daniella Fierro",
+    "section": "",
+    "text": "✉️Email\n🔗LinkedIn\n💻GitHub",
+    "crumbs": [
+      "Profile"
+    ]
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Daniella Fierro",
+    "section": "🧠 Skills",
+    "text": "🧠 Skills\n\n\nAnalytics - R (dplyr, ggplot2) - Power BI (Data Visualisation)\n\n\nHR & Systems - HRIS & Workforce Data - Change Management - Systems Implementation\n\n\nOther - Excel - Reporting & Insights - Stakeholder Engagement",
+    "crumbs": [
+      "Profile"
+    ]
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Daniella Fierro",
+    "section": "📊 Featured Work",
+    "text": "📊 Featured Work\n\n\n📈 HR Analytics Dashboard\nPower BI dashboard analysing workforce trends, attrition, tenure and pay.\n🔗 View Project\n\n\n📉 Livestock Trends (R Analysis)\nTidyTuesday project exploring livestock trends using R and Quarto.\n🔗 View Analysis",
+    "crumbs": [
+      "Profile"
+    ]
+  },
+  {
+    "objectID": "index.html#what-im-working-on",
+    "href": "index.html#what-im-working-on",
+    "title": "Daniella Fierro",
+    "section": "🚀 What I’m Working On",
+    "text": "🚀 What I’m Working On\n\nExpanding capability in statistical analysis (R)\n\nBuilding end-to-end analytics projects\n\nStrengthening data storytelling and reporting",
+    "crumbs": [
+      "Profile"
+    ]
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Daniella Fierro",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\n\n\n\n\nCasual Marker - Foundations of Biostatistics\nUNSW, July 2025 – August 2026\n\n\n\nAssess student assignments, applying marking criteria consistently\nProvide clear, constructive feedback to support student learning in core statistical concepts such as hypothesis testing, confidence intervals, and data interpretation.\nCollaborate with course coordinators to clarify marking standards and ensure consistency across student cohorts\n\n\n\n\n\n\n\n\n\n\nBusiness Consultant\nZero:100 Consulting, October 2023 – January 2025\n\n\n\nDesigned new policies and processes personalised to clients to improve HR practices and project delivery.\nEnhanced UI/UX through WordPress.\n\n\n\n\n\n\n\n\n\n\nPeople & Culture Officer\nA-Leagues (APL), January 2022 – October 2023\n\n\nHR Analytics:\n\nDesigned and managed an HR Metrics Dashboard via Power BI, integrating JavaScript customizations to align with\nAPL branding and providing insights on workforce demographics, turnover, and DEI initiatives.\nDesigned and led the complete Employee Engagement Project, from survey creation, delivery, results analysis, and recommendations. These recommendations dramatically shaped the working approach, recruitment initiatives and overall structure at the A-leagues.\n\nProject Leadership:\n\nLed two relocation projects, delivering within a tight timeframes and earning senior leader commendation.\n\nHR Infrastructure:\n\nEstablished automated processes for onboarding/offboarding, enhancing operational efficiency and drafted policy to support various HR workflows.\nDeveloped a successful internship program that enabled students a professional pathway into the A-Leagues. Nalin Mastou was our first female intern, later hired and now a well-recognised sports reporter, writer and social media producer in a predominantly male dominated field.\n\n\n\n\n\n\n\n\n\n\nWorkforce Analyst Au/NZ\nZimmer Biomet Au/NZ, November 2019 – December 2021\n\n\nSystems Deployment:\n\nLed the payroll and time/attendance system data migrations, which included:\nAlign data from the internal payroll system to ADP\nAccurately configure HR systems for correct data flow, set up workflows and troubleshoot bugs\nDeveloping comprehensive training materials and conducting info/training sessions for employees and leaders\n\nPayroll & Reporting:\n\nManaged all things payroll for Australia and New Zealand, from processing to payment, and all pay related queries, i.e. interpretation of policy/awards\nProduced reports on leave liabilities, WGEA, headcount, and compensation trends.",
+    "crumbs": [
+      "Profile"
+    ]
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Daniella Fierro",
+    "section": "Education",
+    "text": "Education\n\n\n\nMasters of Science in Health Data Science — 2028\n\n\nGraduate Certificate, Data Science — 2025\n\n\nLean Six Sigma Green Belt Certification —2022\n\n\nBachelor of Commerce, Human Resources — 2018",
+    "crumbs": [
+      "Profile"
+    ]
+  },
+  {
+    "objectID": "index.html#other-experiencevolunteering",
+    "href": "index.html#other-experiencevolunteering",
+    "title": "Daniella Fierro",
+    "section": "Other Experience/Volunteering",
+    "text": "Other Experience/Volunteering\n\n\n\n\n\n\n\n\nAustralian Female Football Association\nVice - President\nMarch 2026 - Current\n\n\nPhoenix Caulking\nDirector\nMay 2025 - Current\n\n\nWestern Condors FC\nGrant Writing\nMarch 2025 - Current\n\n\nStrathfield Strikers FC\nFootball Coach\n2021\n\n\nShining Light Foundation\nCasual Volunteer\n2018",
+    "crumbs": [
+      "Profile"
+    ]
+  },
+  {
+    "objectID": "r-analysis.html",
+    "href": "r-analysis.html",
+    "title": "R Analysis",
+    "section": "",
+    "text": "Welcome to the R analysis section of my quarto portfolio\nThis section reflects my ongoing development in R, exploring data through structured analysis, visualisation, and storytelling. It brings together projects developed through analysis, exploratory work and interactive applications.\nYou’ll find examples of:\n\nReproducible analysis using R Markdown and Quarto\nExploratory data projects through TidyTuesdays\nInteractive applications built with Shiny\n\n\n\nProjects\nEach project reflects my approach to breaking down datasets, uncovering meaningful insights and communicating findings in a practical way. Explore the sections below:\n\n📊TidyTuesdays\n⚙️Shiny - coming soon\n\n\n\nTools & Techniques I use:\n\nR (tidyverse, ggplot2)\nQuarto / R Markdown\nShiny (in development)\nData wrangling & Visualisation",
+    "crumbs": [
+      "R Analysis"
+    ]
+  },
+  {
+    "objectID": "Shiny.html",
+    "href": "Shiny.html",
+    "title": "Shiny",
+    "section": "",
+    "text": "Building interactive tools to make data more accessible and usable.\n\n\nThis section will showcase applications built using Shiny, focusing on turning analysis into interactive user experiences.\nShiny allows us to explore data dynamically, assist in answering our own questions and engage more deeply with insights, moving beyond static reports to more flexible and engaging tools.\n\n\n\nShiny applications will focus on interactive dashboards, scenario exploration, user-driven data filtering, simplifying complex datasets\n\n\n\n🚧 Coming soon🚧\nCurrently developing my first Shiny applications. They will include:\n\ninteractive dashboards\nanalytical tools\napplied data exploration apps\n\n\n\n\n\nreactive programming\nUI/UX design in Shiny\ndata integration with R\ndashboard development",
+    "crumbs": [
+      "R Analysis",
+      "Shiny - coming soon"
+    ]
+  },
+  {
+    "objectID": "Shiny.html#shiny-applications",
+    "href": "Shiny.html#shiny-applications",
+    "title": "Shiny",
+    "section": "",
+    "text": "Building interactive tools to make data more accessible and usable.\n\n\nThis section will showcase applications built using Shiny, focusing on turning analysis into interactive user experiences.\nShiny allows us to explore data dynamically, assist in answering our own questions and engage more deeply with insights, moving beyond static reports to more flexible and engaging tools.\n\n\n\nShiny applications will focus on interactive dashboards, scenario exploration, user-driven data filtering, simplifying complex datasets\n\n\n\n🚧 Coming soon🚧\nCurrently developing my first Shiny applications. They will include:\n\ninteractive dashboards\nanalytical tools\napplied data exploration apps\n\n\n\n\n\nreactive programming\nUI/UX design in Shiny\ndata integration with R\ndashboard development",
+    "crumbs": [
+      "R Analysis",
+      "Shiny - coming soon"
+    ]
+  },
+  {
+    "objectID": "TidyTuesdays_17022026.html",
+    "href": "TidyTuesdays_17022026.html",
+    "title": "Livestock Trend Analysis",
+    "section": "",
+    "text": "How have livestock categories changed over time when compared on a like-for-like basis?\n\n\nCode\nlibrary(tidyverse)\nlibrary(tidytuesdayR)\nlibrary(dplyr)\nlibrary(r4np)\nlibrary(ggplot2)\nlibrary(lubridate)\nlibrary(data.table)\nlibrary(tidyr)\nlibrary(ggrepel)\nlibrary(ggplot2)\nlibrary(plotly)\nlibrary(zoo)\nlibrary(naniar)\n\n#Load Data\ntt &lt;- read.csv(\"https://raw.githubusercontent.com/rfordatascience/tidytuesday/refs/heads/main/data/2026/2026-02-17/dataset.csv\")\n\n\n\n\nCode\n#Duplicate data set \ndata &lt;- tt\n\n  ##Preview data\nskimr::skim(data)\n\n\n\nData summary\n\n\nName\ndata\n\n\nNumber of rows\n4739\n\n\nNumber of columns\n5\n\n\n_______________________\n\n\n\nColumn type frequency:\n\n\n\ncharacter\n3\n\n\nnumeric\n2\n\n\n________________________\n\n\n\nGroup variables\nNone\n\n\n\nVariable type: character\n\n\n\n\n\n\n\n\n\n\n\n\n\nskim_variable\nn_missing\ncomplete_rate\nmin\nmax\nempty\nn_unique\nwhitespace\n\n\n\n\nmeasure\n0\n1\n4\n67\n0\n193\n0\n\n\nvalue_unit\n0\n1\n6\n6\n0\n1\n0\n\n\nvalue_label\n0\n1\n6\n28\n0\n21\n0\n\n\n\nVariable type: numeric\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nskim_variable\nn_missing\ncomplete_rate\nmean\nsd\np0\np25\np50\np75\np100\nhist\n\n\n\n\nyear_ended_june\n0\n1\n1997.39\n19.29\n1935\n1987.0\n2002\n2012\n2024\n▁▁▃▇▇\n\n\nvalue\n0\n1\n3831321.91\n10800775.83\n0\n10980.5\n209710\n1246332\n101435185\n▇▁▁▁▁\n\n\n\n\n\nCode\nglimpse(data)\n\n\nRows: 4,739\nColumns: 5\n$ year_ended_june &lt;int&gt; 1935, 1935, 1935, 1935, 1935, 1935, 1935, 1935, 1935, …\n$ measure         &lt;chr&gt; \"Total Area of Farms\", \"Breeding Ewes 2 Tooth and Over…\n$ value           &lt;int&gt; 17443800, 17812400, 29077000, 15689000, 91212, 161475,…\n$ value_unit      &lt;chr&gt; \"number\", \"number\", \"number\", \"number\", \"number\", \"num…\n$ value_label     &lt;chr&gt; \"Hectares\", \"Number of sheep\", \"Number of sheep\", \"Num…\n\n\nCode\n#Use year to add date column in full Date format \nyear &lt;- data$year_ended_june\n\ndate &lt;- ymd(paste0(year, \"-06,30\"))\n\ndata &lt;- data |&gt; \n  mutate(date = date)\n\n\n#Categorise by industry: Agricultural/Meat\n\n  ##Create new variable to hold \nmeasures_list &lt;- data |&gt; \n  select(date, measure, value_label, value) \n\n\n  ##Printing list of distinct values in value_label variable to further categorise by industry category\nmeasures_list |&gt; \n  select(value_label) |&gt;\n    distinct() |&gt; \n  print()\n\n\n                    value_label\n1                      Hectares\n2               Number of sheep\n3                        Tonnes\n4       Number of farm holdings\n5              Number of cattle\n6                Number of pigs\n7               Number of goats\n8                Number of deer\n9                      Hectared\n10                Square metres\n11           Number of chickens\n12             Number of horses\n13            Number of alpacas\n14             Number of llamas\n15               Number of eggs\n16 Number of alpacas and llamas\n17                 Cubic metres\n18                    Kilograms\n19                       Dozens\n20            Number of poultry\n21          Number of livestock\n\n\nCode\n  ##Categorising value_labels into industry categories\nmeasures_list &lt;- measures_list |&gt; \n  mutate(IndustryCategory = case_when(value_label %in% c(\"Hectares\", \"Tonnes\", \"Number of farm holdings\", \"Hectared\", \"Square metres\", \"Cubic metres\", \"Kilograms\") ~ \"Agriculture\",\n          TRUE ~ \"Meat\"))\n\n\n## isolate all measures that show \"Total [animal]\"\n\ntotals &lt;- measures_list |&gt; \n  filter(str_detect(measure, \"^Total\")) |&gt; \n  filter(!str_detect(measure, \"value|production\")) |&gt; \n  filter(IndustryCategory == \"Meat\") |&gt; \n  filter(str_detect(measure, \"^\")) |&gt; \n  filter(measure %in% c(\n    \"Total Beef Cattle\",\n    \"Total Dairy Cattle (including Bobby Calves)\",\n    \"Total Sheep\",\n    \"Total goats\",\n    \"Total Pigs\",\n    \"Total Deer\",\n    \"Total poultry\"\n  ))\n\n## Filter to keep only dates where ALL measures exist\n\ntotals_filtered &lt;- totals |&gt; \n  group_by(date) |&gt; \n  filter(n_distinct(measure) == n_distinct(totals$measure)) |&gt; \n  ungroup()\n\n## Normalise values (index = 100 at first available point per measure)\n\ntotals_norm &lt;- totals_filtered |&gt;\n  group_by(measure) |&gt;\n  arrange(date) |&gt;\n  mutate(value_index = value / first(value) * 100) |&gt;\n  ungroup()\n\n# 3. Create annotation dataset (latest point per measure)\nannotations &lt;- totals_norm |&gt;\n  group_by(measure) |&gt;\n  slice_max(date, n = 1)",
+    "crumbs": [
+      "R Analysis",
+      "TidyTuesdays",
+      "Livestock Totals Over Time"
+    ]
+  },
+  {
+    "objectID": "TidyTuesdays_17022026.html#question",
+    "href": "TidyTuesdays_17022026.html#question",
+    "title": "Livestock Trend Analysis",
+    "section": "",
+    "text": "How have livestock categories changed over time when compared on a like-for-like basis?\n\n\nCode\nlibrary(tidyverse)\nlibrary(tidytuesdayR)\nlibrary(dplyr)\nlibrary(r4np)\nlibrary(ggplot2)\nlibrary(lubridate)\nlibrary(data.table)\nlibrary(tidyr)\nlibrary(ggrepel)\nlibrary(ggplot2)\nlibrary(plotly)\nlibrary(zoo)\nlibrary(naniar)\n\n#Load Data\ntt &lt;- read.csv(\"https://raw.githubusercontent.com/rfordatascience/tidytuesday/refs/heads/main/data/2026/2026-02-17/dataset.csv\")\n\n\n\n\nCode\n#Duplicate data set \ndata &lt;- tt\n\n  ##Preview data\nskimr::skim(data)\n\n\n\nData summary\n\n\nName\ndata\n\n\nNumber of rows\n4739\n\n\nNumber of columns\n5\n\n\n_______________________\n\n\n\nColumn type frequency:\n\n\n\ncharacter\n3\n\n\nnumeric\n2\n\n\n________________________\n\n\n\nGroup variables\nNone\n\n\n\nVariable type: character\n\n\n\n\n\n\n\n\n\n\n\n\n\nskim_variable\nn_missing\ncomplete_rate\nmin\nmax\nempty\nn_unique\nwhitespace\n\n\n\n\nmeasure\n0\n1\n4\n67\n0\n193\n0\n\n\nvalue_unit\n0\n1\n6\n6\n0\n1\n0\n\n\nvalue_label\n0\n1\n6\n28\n0\n21\n0\n\n\n\nVariable type: numeric\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nskim_variable\nn_missing\ncomplete_rate\nmean\nsd\np0\np25\np50\np75\np100\nhist\n\n\n\n\nyear_ended_june\n0\n1\n1997.39\n19.29\n1935\n1987.0\n2002\n2012\n2024\n▁▁▃▇▇\n\n\nvalue\n0\n1\n3831321.91\n10800775.83\n0\n10980.5\n209710\n1246332\n101435185\n▇▁▁▁▁\n\n\n\n\n\nCode\nglimpse(data)\n\n\nRows: 4,739\nColumns: 5\n$ year_ended_june &lt;int&gt; 1935, 1935, 1935, 1935, 1935, 1935, 1935, 1935, 1935, …\n$ measure         &lt;chr&gt; \"Total Area of Farms\", \"Breeding Ewes 2 Tooth and Over…\n$ value           &lt;int&gt; 17443800, 17812400, 29077000, 15689000, 91212, 161475,…\n$ value_unit      &lt;chr&gt; \"number\", \"number\", \"number\", \"number\", \"number\", \"num…\n$ value_label     &lt;chr&gt; \"Hectares\", \"Number of sheep\", \"Number of sheep\", \"Num…\n\n\nCode\n#Use year to add date column in full Date format \nyear &lt;- data$year_ended_june\n\ndate &lt;- ymd(paste0(year, \"-06,30\"))\n\ndata &lt;- data |&gt; \n  mutate(date = date)\n\n\n#Categorise by industry: Agricultural/Meat\n\n  ##Create new variable to hold \nmeasures_list &lt;- data |&gt; \n  select(date, measure, value_label, value) \n\n\n  ##Printing list of distinct values in value_label variable to further categorise by industry category\nmeasures_list |&gt; \n  select(value_label) |&gt;\n    distinct() |&gt; \n  print()\n\n\n                    value_label\n1                      Hectares\n2               Number of sheep\n3                        Tonnes\n4       Number of farm holdings\n5              Number of cattle\n6                Number of pigs\n7               Number of goats\n8                Number of deer\n9                      Hectared\n10                Square metres\n11           Number of chickens\n12             Number of horses\n13            Number of alpacas\n14             Number of llamas\n15               Number of eggs\n16 Number of alpacas and llamas\n17                 Cubic metres\n18                    Kilograms\n19                       Dozens\n20            Number of poultry\n21          Number of livestock\n\n\nCode\n  ##Categorising value_labels into industry categories\nmeasures_list &lt;- measures_list |&gt; \n  mutate(IndustryCategory = case_when(value_label %in% c(\"Hectares\", \"Tonnes\", \"Number of farm holdings\", \"Hectared\", \"Square metres\", \"Cubic metres\", \"Kilograms\") ~ \"Agriculture\",\n          TRUE ~ \"Meat\"))\n\n\n## isolate all measures that show \"Total [animal]\"\n\ntotals &lt;- measures_list |&gt; \n  filter(str_detect(measure, \"^Total\")) |&gt; \n  filter(!str_detect(measure, \"value|production\")) |&gt; \n  filter(IndustryCategory == \"Meat\") |&gt; \n  filter(str_detect(measure, \"^\")) |&gt; \n  filter(measure %in% c(\n    \"Total Beef Cattle\",\n    \"Total Dairy Cattle (including Bobby Calves)\",\n    \"Total Sheep\",\n    \"Total goats\",\n    \"Total Pigs\",\n    \"Total Deer\",\n    \"Total poultry\"\n  ))\n\n## Filter to keep only dates where ALL measures exist\n\ntotals_filtered &lt;- totals |&gt; \n  group_by(date) |&gt; \n  filter(n_distinct(measure) == n_distinct(totals$measure)) |&gt; \n  ungroup()\n\n## Normalise values (index = 100 at first available point per measure)\n\ntotals_norm &lt;- totals_filtered |&gt;\n  group_by(measure) |&gt;\n  arrange(date) |&gt;\n  mutate(value_index = value / first(value) * 100) |&gt;\n  ungroup()\n\n# 3. Create annotation dataset (latest point per measure)\nannotations &lt;- totals_norm |&gt;\n  group_by(measure) |&gt;\n  slice_max(date, n = 1)",
+    "crumbs": [
+      "R Analysis",
+      "TidyTuesdays",
+      "Livestock Totals Over Time"
+    ]
+  },
+  {
+    "objectID": "TidyTuesdays_17022026.html#approach",
+    "href": "TidyTuesdays_17022026.html#approach",
+    "title": "Livestock Trend Analysis",
+    "section": "Approach",
+    "text": "Approach\n\nRestricted to overlapping time periods\n\nIndexed values to 100 at first observation\n\nFaceted by livestock type for clarity",
+    "crumbs": [
+      "R Analysis",
+      "TidyTuesdays",
+      "Livestock Totals Over Time"
+    ]
+  },
+  {
+    "objectID": "TidyTuesdays_17022026.html#key-insight",
+    "href": "TidyTuesdays_17022026.html#key-insight",
+    "title": "Livestock Trend Analysis",
+    "section": "Key Insight",
+    "text": "Key Insight\nWhile absolute livestock numbers differ, indexing reveals different growth patterns. Some categories in Figure 1 show steady growth, while others are more volatile or stagnant.\n\nWhat Figure 1 Shows\nEach line starts at 100 and shows relative change over time. This allows direct comparison of growth trends across livestock categories.\n\n\nWhy This Matters\nThis shifts the focus from size to change, helping identify which categories are growing, declining, or becoming more volatile.\n\n\n\nCode\n#| label: \n#| fig-cap: \"Livestock Totals Over Time.\"\n#| warning: false\n\n## Visualise Livestock Totals by Year\n\np &lt;- totals_norm |&gt; \n  ggplot(aes(\n    x = date, \n    y = value_index, \n    colour = measure,\n    linetype = measure\n  )) +\n  geom_line(size = 1) +\n  geom_point(size = 1.5) +\n  \n  #Facet for clarity \n  facet_wrap(~measure, scales = \"free_y\") +\n  \n  #Add annotations \n  geom_text(\n    data = annotations, \n    aes(label = round(value_index, 1)),\n    hjust = -0.2,\n    size = 3,\n    show.legend = FALSE\n    ) +\n  labs(\n    title = \"Livestock Totals Over Time\",\n    x = \"Date\",\n    y = \"Index\",\n    colour = \"Livestock\",\n    linetype = \"Livestock\") +\n  \n  #Expand x-axis so labels fit\n   scale_x_date(expand = expansion(mult = c(0.01, 0.1))) +\n  \n  theme_minimal() +\n    theme(\n    legend.position = \"none\",\n    strip.text = element_text(face = \"bold\")\n  )\n\n\n#Convert to interactive\nLivestockFig &lt;- ggplotly(p, tooltip = c(\"x\", \"y\", \"colour\"))\n\nLivestockFig &lt;- LivestockFig |&gt; \n  layout(\n    hovermode = \"x unified\"\n  )\n\n#LivestockFig\n\n\n\n\n\n\n\n\nFigure 1: Livestock Totals Over Time",
+    "crumbs": [
+      "R Analysis",
+      "TidyTuesdays",
+      "Livestock Totals Over Time"
+    ]
+  }
+]
